@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="navigation_turtlebot" type="main.py" name="main" output="screen" />
+</launch>
